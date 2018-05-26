@@ -1,4 +1,4 @@
 <?php
-header("Location: https://www.walmart.com/browse/jewelry/promise-rings/3891_540912_1228412");
+header("Location: http://hubblesite.org/hubble_discoveries/dark_energy/de-did_einstein_predict.php");
 die();
 ?>
